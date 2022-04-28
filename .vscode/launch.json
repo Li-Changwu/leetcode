@@ -6,13 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch test",
-            "request": "launch",
-            "mainClass": "Java.test",
-            "projectName": "leetcode_eaa71ee8"
-        },
-        {
-            "type": "java",
             "name": "java debug",
             "request": "launch",
             "mainClass": "${file}"
