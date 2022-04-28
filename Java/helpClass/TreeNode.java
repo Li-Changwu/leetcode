@@ -1,4 +1,4 @@
-package helpClass;
+package Java.helpClass;
 public class TreeNode {
     public int val;
     public TreeNode left;
