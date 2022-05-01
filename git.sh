@@ -1,11 +1,11 @@
-
 if [ $# -eq 1 ]
 then
   message=$1
 else
   message="commit"
 fi
-echo $message
+
+echo 提交信息为:$message
 
 git add .
 git commit -m $message
