@@ -7,6 +7,6 @@ else
 fi
 echo $message
 git add .
-git commit -m message
+git commit -m $message
 git push -u gitee main
 git push -u github main
