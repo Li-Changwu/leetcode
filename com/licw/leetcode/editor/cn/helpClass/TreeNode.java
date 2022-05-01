@@ -1,4 +1,4 @@
-package Java.helpClass;
+package com.licw.leetcode.editor.cn.helpClass;
 
 public class TreeNode {
     public int val;
