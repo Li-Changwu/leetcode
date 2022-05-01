@@ -1,5 +1,12 @@
 
+if [ $# -eq 1 ]
+then
+  message=$1
+else
+  message="commit"
+fi
+echo message
 git add .
-git commit -m $1
+git commit -m message
 git push -u gitee main
-git push -u ggiithub main
+git push -u github main
