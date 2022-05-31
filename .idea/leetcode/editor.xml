@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[11]ContainerWithMostWater.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/doc/content/[11]ContainerWithMostWater.md" />
+              <option name="frontendQuestionId" value="leetcode.cn11" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[11]ContainerWithMostWater.java" />
+              <option name="titleSlug" value="container-with-most-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[120]Triangle.java">
           <value>
             <LeetcodeEditor>
@@ -363,6 +374,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[20]ValidParentheses.java" />
               <option name="titleSlug" value="valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[22]GenerateParentheses.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/doc/content/[22]GenerateParentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.cn22" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[22]GenerateParentheses.java" />
+              <option name="titleSlug" value="generate-parentheses" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -542,6 +564,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[46]Permutations.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/doc/content/[46]Permutations.md" />
+              <option name="frontendQuestionId" value="leetcode.cn46" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[46]Permutations.java" />
+              <option name="titleSlug" value="permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[4]MedianOfTwoSortedArrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/doc/content/[4]MedianOfTwoSortedArrays.md" />
+              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[4]MedianOfTwoSortedArrays.java" />
+              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[50]PowxN.java">
           <value>
             <LeetcodeEditor>
@@ -638,6 +682,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[94]BinaryTreeInorderTraversal.java" />
               <option name="titleSlug" value="binary-tree-inorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[9]PalindromeNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/doc/content/[9]PalindromeNumber.md" />
+              <option name="frontendQuestionId" value="leetcode.cn9" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/com/licw/leetcode/editor/cn/[9]PalindromeNumber.java" />
+              <option name="titleSlug" value="palindrome-number" />
             </LeetcodeEditor>
           </value>
         </entry>
